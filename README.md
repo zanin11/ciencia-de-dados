@@ -1,1 +1,1 @@
-Treinamentos realizados no curso de data science 
+Treinamentos realizados voltados ao curso de Data Science
